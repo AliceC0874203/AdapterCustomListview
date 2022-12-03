@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adapter-Understand</string>
+    <string-array name="program">
+        <item>MADT</item>
+        <item>LAQT</item>
+        <item>CSAT</item>
+        <item>CPMT</item>
+        <item>CPCT</item>
+        <item>Other</item>
+    </string-array>
+</resources>
